@@ -2183,7 +2183,7 @@ design rules under a new name.</description>
 <wire x1="53.159659375" y1="19.43608125" x2="53.05020625" y2="19.326628125" width="0.254" layer="1"/>
 <wire x1="53.05020625" y1="19.326628125" x2="52.585625" y2="19.326628125" width="0.254" layer="1"/>
 </signal>
-<signal name="N$6">
+<signal name="BLANK">
 <contactref element="U$1" pad="P$31"/>
 <contactref element="R2" pad="1"/>
 <contactref element="U$2" pad="P$31"/>
@@ -2223,7 +2223,7 @@ design rules under a new name.</description>
 <wire x1="53.2892" y1="20.82291875" x2="50.893984375" y2="18.427703125" width="0.254" layer="16"/>
 <wire x1="50.893984375" y1="18.427703125" x2="50.175159375" y2="18.427703125" width="0.254" layer="16"/>
 </signal>
-<signal name="N$7">
+<signal name="SCLK">
 <contactref element="U$1" pad="P$1"/>
 <contactref element="U$2" pad="P$1"/>
 <contactref element="U$3" pad="P$6"/>
@@ -2260,7 +2260,7 @@ design rules under a new name.</description>
 <wire x1="40.27931875" y1="44.731940625" x2="41.395659375" y2="43.6156" width="0.254" layer="1"/>
 <wire x1="41.395659375" y1="43.6156" x2="41.395659375" y2="41.8846" width="0.254" layer="1"/>
 </signal>
-<signal name="N$8">
+<signal name="SIN">
 <contactref element="U$1" pad="P$2"/>
 <contactref element="U$3" pad="P$5"/>
 <wire x1="24.84411875" y1="20.92165625" x2="24.84411875" y2="24.198959375" width="0.254" layer="1"/>
@@ -2303,7 +2303,7 @@ design rules under a new name.</description>
 <wire x1="26.70301875" y1="15.2654" x2="26.10611875" y2="15.2654" width="0.254" layer="16"/>
 <wire x1="54.5566625" y1="14.38148125" x2="52.67451875" y2="15.5575" width="0.254" layer="16"/>
 </signal>
-<signal name="N$34">
+<signal name="XLAT">
 <contactref element="U$1" pad="P$32"/>
 <contactref element="U$2" pad="P$32"/>
 <contactref element="U$3" pad="P$4"/>
@@ -2333,7 +2333,7 @@ design rules under a new name.</description>
 <wire x1="46.91634375" y1="17.52091875" x2="46.20768125" y2="18.22958125" width="0.254" layer="1"/>
 <wire x1="30.48761875" y1="17.45488125" x2="26.629359375" y2="21.313140625" width="0.254" layer="16"/>
 </signal>
-<signal name="N$35">
+<signal name="GSCLK">
 <contactref element="U$1" pad="P$24"/>
 <contactref element="U$2" pad="P$24"/>
 <contactref element="U$3" pad="P$3"/>
@@ -2374,7 +2374,7 @@ design rules under a new name.</description>
 <wire x1="37.960303125" y1="42.09288125" x2="42.326559375" y2="42.09288125" width="0.254" layer="16"/>
 <wire x1="51.996340625" y1="26.4566375" x2="55.13831875" y2="23.314659375" width="0.254" layer="16"/>
 </signal>
-<signal name="N$37">
+<signal name="SOUT">
 <contactref element="U$2" pad="P$23"/>
 <contactref element="U$3" pad="P$2"/>
 <wire x1="55.5570375" y1="20.7645" x2="55.55741875" y2="20.76488125" width="0.254" layer="1"/>
